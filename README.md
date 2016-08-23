@@ -1,6 +1,6 @@
 ## An Android version of ORB-SLAM2
 
-The capstone design project for UM-SJTU Joint Institute in Shanghai Jiao Tong Univeristy sponsored by Huawei Technology
+The capstone design project for UM-SJTU Joint Institute in Shanghai Jiao Tong Univeristy sponsored by Huawei Technologies
 
 
 
