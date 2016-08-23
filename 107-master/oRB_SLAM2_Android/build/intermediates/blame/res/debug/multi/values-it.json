@@ -1,0 +1,349 @@
+[
+    {
+        "outputFile": "/Users/kangxu/Documents/JI/450/huawei/107-master/oRB_SLAM2_Android/build/intermediates/res/merged/debug/values-it/values-it.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 108,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "/Users/kangxu/Documents/JI/450/huawei/107-master/oRB_SLAM2_Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-it/values-it.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 108,
+                        "endOffset": 380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 107,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "/Users/kangxu/Documents/JI/450/huawei/107-master/oRB_SLAM2_Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-it/values-it.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 385,
+                        "endColumn": 107,
+                        "endOffset": 488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 122,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "/Users/kangxu/Documents/JI/450/huawei/107-master/oRB_SLAM2_Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-it/values-it.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 493,
+                        "endColumn": 122,
+                        "endOffset": 611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 99,
+                    "endOffset": 490
+                },
+                "from": {
+                    "file": "/Users/kangxu/Documents/JI/450/huawei/107-master/oRB_SLAM2_Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-it/values-it.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 616,
+                        "endColumn": 99,
+                        "endOffset": 711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 495,
+                    "endColumn": 108,
+                    "endOffset": 599
+                },
+                "from": {
+                    "file": "/Users/kangxu/Documents/JI/450/huawei/107-master/oRB_SLAM2_Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-it/values-it.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 716,
+                        "endColumn": 108,
+                        "endOffset": 820
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 604,
+                    "endColumn": 83,
+                    "endOffset": 683
+                },
+                "from": {
+                    "file": "/Users/kangxu/Documents/JI/450/huawei/107-master/oRB_SLAM2_Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-it/values-it.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 825,
+                        "endColumn": 83,
+                        "endOffset": 904
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 688,
+                    "endColumn": 108,
+                    "endOffset": 792
+                },
+                "from": {
+                    "file": "/Users/kangxu/Documents/JI/450/huawei/107-master/oRB_SLAM2_Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-it/values-it.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 909,
+                        "endColumn": 108,
+                        "endOffset": 1013
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 797,
+                    "endColumn": 124,
+                    "endOffset": 917
+                },
+                "from": {
+                    "file": "/Users/kangxu/Documents/JI/450/huawei/107-master/oRB_SLAM2_Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-it/values-it.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1018,
+                        "endColumn": 124,
+                        "endOffset": 1138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 922,
+                    "endColumn": 80,
+                    "endOffset": 998
+                },
+                "from": {
+                    "file": "/Users/kangxu/Documents/JI/450/huawei/107-master/oRB_SLAM2_Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-it/values-it.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1143,
+                        "endColumn": 80,
+                        "endOffset": 1219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1003,
+                    "endColumn": 105,
+                    "endOffset": 1104
+                },
+                "from": {
+                    "file": "/Users/kangxu/Documents/JI/450/huawei/107-master/oRB_SLAM2_Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-it/values-it.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1224,
+                        "endColumn": 105,
+                        "endOffset": 1325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1109,
+                    "endColumn": 107,
+                    "endOffset": 1212
+                },
+                "from": {
+                    "file": "/Users/kangxu/Documents/JI/450/huawei/107-master/oRB_SLAM2_Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-it/values-it.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1330,
+                        "endColumn": 107,
+                        "endOffset": 1433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1217,
+                    "endColumn": 97,
+                    "endOffset": 1310
+                },
+                "from": {
+                    "file": "/Users/kangxu/Documents/JI/450/huawei/107-master/oRB_SLAM2_Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-it/values-it.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1438,
+                        "endColumn": 97,
+                        "endOffset": 1531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1315,
+                    "endColumn": 103,
+                    "endOffset": 1414
+                },
+                "from": {
+                    "file": "/Users/kangxu/Documents/JI/450/huawei/107-master/oRB_SLAM2_Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-it/values-it.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1536,
+                        "endColumn": 103,
+                        "endOffset": 1635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1419,
+                    "endColumn": 104,
+                    "endOffset": 1519
+                },
+                "from": {
+                    "file": "/Users/kangxu/Documents/JI/450/huawei/107-master/oRB_SLAM2_Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-it/values-it.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1640,
+                        "endColumn": 104,
+                        "endOffset": 1740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1524,
+                    "endColumn": 106,
+                    "endOffset": 1626
+                },
+                "from": {
+                    "file": "/Users/kangxu/Documents/JI/450/huawei/107-master/oRB_SLAM2_Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-it/values-it.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1745,
+                        "endColumn": 106,
+                        "endOffset": 1847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1631,
+                    "endColumn": 121,
+                    "endOffset": 1748
+                },
+                "from": {
+                    "file": "/Users/kangxu/Documents/JI/450/huawei/107-master/oRB_SLAM2_Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-it/values-it.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1852,
+                        "endColumn": 121,
+                        "endOffset": 1969
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1753,
+                    "endColumn": 99,
+                    "endOffset": 1848
+                },
+                "from": {
+                    "file": "/Users/kangxu/Documents/JI/450/huawei/107-master/oRB_SLAM2_Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-it/values-it.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1974,
+                        "endColumn": 99,
+                        "endOffset": 2069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1853,
+                    "endColumn": 100,
+                    "endOffset": 1949
+                },
+                "from": {
+                    "file": "/Users/kangxu/Documents/JI/450/huawei/107-master/oRB_SLAM2_Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-it/values-it.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2074,
+                        "endColumn": 100,
+                        "endOffset": 2170
+                    }
+                }
+            }
+        ]
+    }
+]

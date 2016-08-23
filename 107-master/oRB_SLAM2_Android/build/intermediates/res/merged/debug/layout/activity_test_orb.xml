@@ -1,0 +1,132 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:opencv="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:background="@drawable/page2">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_marginTop="20dp">
+
+            <ImageView
+                android:id="@+id/img_dealed"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="fitXY" />
+
+            <org.opencv.android.JavaCameraView
+                android:id="@+id/tutorial1_activity_java_surface_view"
+                android:layout_width="200dip"
+                android:layout_height="200dip"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="15dip"
+                android:layout_marginTop="15dip"
+                android:background="@drawable/border"
+                android:visibility="gone"
+                opencv:camera_id="any"
+                opencv:show_fps="false" />
+
+            <org.opencv.android.NativeCameraView
+                android:id="@+id/tutorial1_activity_native_surface_view"
+                android:layout_width="200dip"
+                android:layout_height="200dip"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="15dip"
+                android:layout_marginTop="15dip"
+                android:background="@drawable/border"
+                android:visibility="gone"
+                opencv:camera_id="any"
+                opencv:show_fps="false" />
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="270dp">
+
+                <Button
+                    android:id="@+id/start"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="start"
+                    android:visibility="gone" />
+
+                <Button
+                    android:id="@+id/stop"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="stop"
+                    android:visibility="gone" />
+
+                <Button
+                    android:id="@+id/track_only"
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Track Only"
+                    android:visibility="visible"
+                    android:background="@drawable/button2"
+                    android:textColor="#ffffff"
+                    android:textSize="12dp" />
+
+                <Button
+                    android:id="@+id/calibrationStart"
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Start Calibration"
+                    android:visibility="visible"
+                    android:background="@drawable/button2"
+                    android:textColor="#ffffff"
+                    android:textSize="12dp" />
+
+                <Button
+                    android:id="@+id/distanceStart"
+                    android:layout_width="100dp"
+                    android:layout_height="50dp"
+                    android:text="Start Distance"
+                    android:visibility="visible"
+                    android:background="@drawable/button2"
+                    android:textColor="#ffffff"
+                    android:textSize="12dp" />
+            </LinearLayout>
+        </RelativeLayout>
+
+        <View
+            android:layout_width="0.5dip"
+            android:layout_height="match_parent"
+            android:background="#CCCCCC" />
+
+        <LinearLayout
+            android:id="@+id/surfaceLinear"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:orientation="vertical"
+            android:layout_marginTop="30dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/dataTextView"
+                android:text="data collection"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/distTextView"
+                android:text=""/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

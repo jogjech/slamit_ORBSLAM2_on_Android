@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/107-master.iml" filepath="$PROJECT_DIR$/107-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oRB_SLAM2_Android/oRB_SLAM2_Android.iml" filepath="$PROJECT_DIR$/oRB_SLAM2_Android/oRB_SLAM2_Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openCVLibrary249/openCVLibrary249.iml" filepath="$PROJECT_DIR$/openCVLibrary249/openCVLibrary249.iml" />
+    </modules>
+  </component>
+</project>

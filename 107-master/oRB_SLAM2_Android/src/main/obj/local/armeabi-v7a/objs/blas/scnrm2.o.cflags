@@ -1,0 +1,1 @@
+-Ijni/Thirdparty/clapack/BLAS/SRC -DANDROID -O3 -fPIC -Wa,--noexecstack -Wformat -Werror=format-security  --std=c++11  -isystem /Users/Zack/Library/Android/sdk/ndk-bundle/platforms/android-9/arch-arm/usr/include -c         

@@ -1,0 +1,45 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:onClick="onClick"
+    android:background="@drawable/page1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="41dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="94dp"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/dataset_mode"
+                android:layout_width="200dip"
+                android:layout_height="52dip"
+                android:text="@string/dataset_mode"
+                android:background="@drawable/button1"
+                android:textColor="#ffffff"
+                android:textSize="18dp" />
+
+            <Button
+                android:id="@+id/test_mode"
+                android:layout_width="200dip"
+                android:layout_height="52dip"
+                android:layout_marginLeft="60dip"
+                android:background="@drawable/button1"
+                android:textColor="#ffffff"
+                android:text="@string/test_mode"
+                android:textSize="18dp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Slamit</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="main_title">ORB_SLAM2\n for Android</string>
+    <string name="dataset_mode">Dataset Mode</string>
+    <string name="camera_mode">Camera Mode</string>
+    <string name="test_mode">Camera Mode</string>
+    <string name="dataset_select_pics">select a dataset</string>
+    <string name="dataset_select_voc">select Voc.txt</string>
+
+</resources>
